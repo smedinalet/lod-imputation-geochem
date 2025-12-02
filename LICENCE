@@ -1,7 +1,3 @@
-## 📄 `LICENSE` (MIT License)
-```
-MIT License
-
 Copyright (c) 2025 [SAMUEL MEDINA LETELIER]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -37,9 +33,9 @@ References:
 - Palarea-Albaladejo, J., & Martín-Fernández, J.A. (2015). Chemometrics and 
   Intelligent Laboratory Systems, 143, 85-96.
 
-## 📄 `requirements.txt` (por si acaso)
-```
+
 numpy>=1.20.0
 pandas>=1.3.0
 
 scipy>=1.7.0
+
